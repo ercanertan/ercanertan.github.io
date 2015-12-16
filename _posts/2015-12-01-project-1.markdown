@@ -1,0 +1,20 @@
+---
+title: Sea Road Dental Practice
+subtitle: Role:Front-End Designer
+layout: default
+modal-id: 1
+date: 2014-12-01
+img: searoad.jpg
+thumbnail: searoad-thumbnail.jpg
+alt: image-alt
+project-date: December 2015
+client: SeaRoad Dental
+clientURL: http://www.SeaRoadDental.com
+category: Comercial
+description1: Technical Info
+description2: HTML, Javascript, CSS, Third Party Libraries(Bootstrap)
+description3: Reference
+description4: Oguz Erciyas
+description5:  / Practice Manager 
+description6: Phone - 01424 210 346
+---

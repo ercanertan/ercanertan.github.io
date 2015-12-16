@@ -1,0 +1,16 @@
+---
+title: UK Sim Deals
+subtitle: Role:IOS Developer & Publisher
+layout: default
+modal-id: 5
+date: 2014-01-03
+img: uksim.jpg
+thumbnail: uksim-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Own Project
+clientURL: https://itunes.apple.com/az/app/uk-sim-deals/id792233893?mt=8
+category: Non-Comercial
+description1: You don't have to check all network providers web site anymore to find best & cheapest Sim Only Deals.With "UK Sim Deals" App now so much easy.
+
+---

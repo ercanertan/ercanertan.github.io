@@ -1,0 +1,16 @@
+---
+title: FOOTBALL ARC
+subtitle: Role:IOS Developer & Publisher
+layout: default
+modal-id: 4
+date: 2014-01-02
+img: ios.jpg
+thumbnail: ios-thumbnail.jpg
+alt: image-alt
+project-date:
+client: Own Project
+clientURL: https://itunes.apple.com/az/developer/ertan-ercan/id764933342
+category: Non-Comercial
+description1: View stats for the season so far and compare performance against other teams in the International and domestic leagues.
+
+---

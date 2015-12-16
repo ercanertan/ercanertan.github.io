@@ -1,15 +1,15 @@
 ---
-title: UK Qualitas
+title: Rainbow Babysitting
 subtitle: Role:Front-End Designer
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-01-15
-img: ukqualitas.jpg
-thumbnail: ukqualitas-thumbnail.jpg
+img: rainbowbabysitting.jpg
+thumbnail: rainbowbabysitting-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
-client: UK Qualitas
-clientURL: http://ukqualitas.com
+client: Rainbow Babysitting
+clientURL: http://rainbowbabysitting.com
 category: Comercial
 description1: Technical Info
 description2: HTML, Javascript, CSS
