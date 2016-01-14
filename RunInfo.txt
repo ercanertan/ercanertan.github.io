@@ -1,0 +1,4 @@
+$ jekyll serve
+
+
+http://jekyllrb.com/docs/usage/
