@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: UK Qualitas
 clientURL: http://ukqualitas.com
-category: Comercial
+category: Front-End - Comercial
 description1: Technical Info
 description2: HTML, Javascript, CSS
 

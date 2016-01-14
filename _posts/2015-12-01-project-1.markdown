@@ -10,7 +10,7 @@ alt: image-alt
 project-date: December 2015
 client: SeaRoad Dental
 clientURL: http://www.SeaRoadDental.com
-category: Comercial
+category: Front-End - Comercial
 description1: Technical Info
 description2: HTML, Javascript, CSS, Third Party Libraries(Bootstrap)
 description3: Reference

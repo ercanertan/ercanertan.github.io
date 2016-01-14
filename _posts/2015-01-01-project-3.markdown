@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2015
 client: Danisman UK Car Claim
 clientURL: http://www.danismanuk.co.uk/form/
-category: Comercial
+category: Full Stack - Comercial
 description1: Technical Info
 description2: PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation)
 description3: Reference

@@ -10,7 +10,7 @@ alt: image-alt
 project-date: April 2014
 client: Rainbow Babysitting
 clientURL: http://rainbowbabysitting.com
-category: Comercial
+category: Front-End - Comercial
 description1: Technical Info
 description2: HTML, Javascript, CSS
 
