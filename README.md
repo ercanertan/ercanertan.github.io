@@ -1,3 +1,3 @@
-Ertan Ercan Portfolio
-====================
+Ertan Ercan Portfolio 
 Visit my portfolio http://ercanertan.github.io/
+====================
