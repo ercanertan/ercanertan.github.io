@@ -10,12 +10,7 @@ alt: image-alt
 project-date: April 2015
 client: Danisman UK Car Claim
 clientURL: http://www.danismanuk.co.uk/form/
-category: Full Stack - Comercial
+category: Full Stack Developer
 description1: Technical Info
 description2: PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation)
-description3: Reference
-description4: Huseyin Yildirim
-description5:  / Director of Company
-description6: Phone - 0208 801 5260
-
 ---

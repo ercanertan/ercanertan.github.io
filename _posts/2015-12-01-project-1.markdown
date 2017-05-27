@@ -10,11 +10,7 @@ alt: image-alt
 project-date: December 2015
 client: SeaRoad Dental
 clientURL: http://www.SeaRoadDental.com
-category: Front-End - Comercial
+category: Front-End
 description1: Technical Info
-description2: HTML, Javascript, CSS, Third Party Libraries(Bootstrap)
-description3: Reference
-description4: Oguz Erciyas
-description5:  / Practice Manager 
-description6: Phone - 01424 210 346
+description2: Wordpress, PHP, HTML, Javascript, CSS, Third Party Libraries(Bootstrap)
 ---

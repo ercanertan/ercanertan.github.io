@@ -1,0 +1,18 @@
+---
+title: CAU Restaurants
+subtitle: Role:Lead Back-End Developer
+layout: default
+modal-id: 8
+date: 2017-05-01
+img: cau.jpg
+thumbnail: cau-thumbnail.jpg
+alt: image-alt
+project-date: May 2017
+client: CAU
+clientURL: https://www.caurestaurants.com
+category: Lead Back-End Developer
+projectDetails: My responsibility laid with developing backend (Content Management System with Laravel). Project itself required multi country/region and language Content Management System from scratch.
+description1: Technical Info
+description2: Laravel Framework 5.4, PHP, MYSQL, Git, SSH, Third Party API, Campaing Monitor, Google API
+
+---

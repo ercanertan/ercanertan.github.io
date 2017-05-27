@@ -10,12 +10,8 @@ alt: image-alt
 project-date: July 2015
 client: Tiger Construction
 clientURL: http://www.tigerconstruction.co.uk/app
-category: Full Stack - Comercial
+category: Full Stack Developer
 description1: Technical Info
-description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH,
-description3: Reference
-description4: Aykut Kilic
-description5:  / Office Manager
-description6: Phone - 0203 620 7904
+description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH
 
 ---

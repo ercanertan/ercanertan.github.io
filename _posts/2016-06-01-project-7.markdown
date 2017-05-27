@@ -1,0 +1,17 @@
+---
+title: Singer Vielle Sales
+subtitle: Role:Front-End Developer
+layout: default
+modal-id: 7
+date: 2016-06-01
+img: svs.jpg
+thumbnail: svs-thumbnail.jpg
+alt: image-alt
+project-date: July 2016
+client: Singer Vielle Sales
+clientURL: http://www.singerviellesales.com
+category: Front-End Developer
+description1: Technical Info
+description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH
+
+---
