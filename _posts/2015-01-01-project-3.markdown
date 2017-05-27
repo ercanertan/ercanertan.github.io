@@ -11,6 +11,7 @@ project-date: April 2015
 client: Danisman UK Car Claim
 clientURL: http://www.danismanuk.co.uk/form/
 category: Full Stack Developer
+projectDetails: My responsibility laid with developing full-stack web application include design ux.
 description1: Technical Info
 description2: PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation)
 ---

@@ -11,6 +11,7 @@ project-date: July 2015
 client: Tiger Construction
 clientURL: http://www.tigerconstruction.co.uk/app
 category: Full Stack Developer
+projectDetails: My responsibility laid with developing full-stack web application include design ux. 
 description1: Technical Info
 description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH
 

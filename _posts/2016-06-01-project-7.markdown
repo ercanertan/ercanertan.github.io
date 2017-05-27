@@ -11,6 +11,7 @@ project-date: July 2016
 client: Singer Vielle Sales
 clientURL: http://www.singerviellesales.com
 category: Front-End Developer
+projectDetails: My responsibility laid with developing front-end base on giving design. Myself and other two colleague worked together. I was responsible from front-end development.
 description1: Technical Info
 description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH
 
