@@ -1,15 +1,15 @@
 ---
-title: Bobscafe
+title: Monkeynuts
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 6
 date: 2020-01-01
-img: bobscafe.jpg
-thumbnail: bobscafe-thumbnail.jpg
+img: monkeynuts.jpg
+thumbnail: monkeynuts-thumbnail.jpg
 alt: image-alt
 project-date: Jun 2019
-client: Bobscafe
-clientURL: https://www.bobscafe.net/
+client: Monkeynuts
+clientURL: https://monkeynuts.biz/
 category: Full Stack Developer
 projectDetails: My responsibility laid with developing full-stack web application include design ux. 
 description1: Technical Info
