@@ -9,7 +9,7 @@ thumbnail: tiger-thumbnail.jpg
 alt: image-alt
 project-date: July 2015
 client: Tiger Construction
-clientURL: http://www.tigerconstruction.co.uk/app
+clientURL: private
 category: Full Stack Developer
 projectDetails: My responsibility laid with developing full-stack web application include design ux. 
 description1: Technical Info
