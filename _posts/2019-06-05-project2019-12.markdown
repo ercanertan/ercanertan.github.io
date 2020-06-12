@@ -1,0 +1,18 @@
+---
+title: chelmsfordcityracecourse
+subtitle: Role:Full Stack PHP Developer
+layout: default
+modal-id: 12
+date: 2020-01-01
+img: chelmsfordcityracecourse.jpg
+thumbnail: chelmsfordcityracecourse-thumbnail.jpg
+alt: image-alt
+project-date: Jun 2019
+client: chelmsfordcityracecourse
+clientURL: https://chelmsfordcityracecourse.com/
+category: Full Stack Developer
+projectDetails: My responsibility laid with developing full-stack web application include design ux. 
+description1: Technical Info
+description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+
+---
