@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2020-01-01
 img: biba.jpg
-thumbnail: tiger-biba.jpg
+thumbnail: biba-thumbnail.jpg
 alt: image-alt
 project-date: Dec 2019
 client: Biba Brexit Guide
