@@ -1,0 +1,18 @@
+---
+title: Faith In Families
+subtitle: Role:Full Stack PHP Developer
+layout: default
+modal-id: 13
+date: 2020-01-01
+img: faithinfamilies.jpg
+thumbnail: faithinfamilies-thumbnail.jpg
+alt: image-alt
+project-date: Jun 2019
+client: faithinfamilies
+clientURL: https://faithinfamilies.org/
+category: Full Stack Developer
+projectDetails: My responsibility laid with developing full-stack web application include design ux. 
+description1: Technical Info
+description2: Wordpress Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+
+---
