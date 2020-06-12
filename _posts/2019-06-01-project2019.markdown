@@ -1,0 +1,18 @@
+---
+title: Bobscafe
+subtitle: Role:Full Stack PHP Developer
+layout: default
+modal-id: 2
+date: 2020-01-01
+img: bobscafe.jpg
+thumbnail: bobscafe-thumbnail.jpg
+alt: image-alt
+project-date: Dec 2019
+client: Bobscafe
+clientURL: https://www.bobscafe.net/
+category: Full Stack Developer
+projectDetails: My responsibility laid with developing full-stack web application include design ux. 
+description1: Technical Info
+description2: Laravel Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+
+---
