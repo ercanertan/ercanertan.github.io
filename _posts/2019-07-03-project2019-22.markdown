@@ -1,0 +1,18 @@
+---
+title: The Monument
+subtitle: Role:Maintenance
+layout: default
+modal-id: 22
+date: 2020-01-01
+img: themonument.jpg
+thumbnail: themonument-thumbnail.jpg
+alt: image-alt
+project-date: April 2020
+client: themonument
+clientURL: https://www.themonument.org.uk/
+category: Full Stack Developer
+projectDetails: My responsibility taking over existance project and integration new features.
+description1: Technical Info
+description2: Django, Ptyhon, PostgreSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+
+---
