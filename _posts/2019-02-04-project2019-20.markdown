@@ -1,0 +1,18 @@
+---
+title: Jamieoliver
+subtitle: Role:Full Stack PHP Developer / Maintenance
+layout: default
+modal-id: 20
+date: 2020-01-01
+img: jamieoliver.jpg
+thumbnail: jamieoliver-thumbnail.jpg
+alt: image-alt
+project-date: Jun 2019
+client: Jamieoliver
+clientURL: https://www.jamieoliver.com/italian/
+category: Full Stack Developer
+projectDetails: My responsibility taking over existance project and integration new features. 
+description1: Technical Info
+description2: Yii Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+
+---

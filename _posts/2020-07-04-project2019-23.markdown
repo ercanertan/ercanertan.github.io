@@ -1,17 +1,17 @@
 ---
-title: The Lookout-Poole
+title: Wonkhe
 subtitle: Role:Full Stack PHP Developer
 layout: default
-modal-id: 16
+modal-id: 23
 date: 2020-01-01
-img: thelookout-poole.jpg
-thumbnail: thelookout-poole-thumbnail.jpg
+img: wonkhe.jpg
+thumbnail: wonkhe-thumbnail.jpg
 alt: image-alt
-project-date: Jun 2019
-client: The Lookout-Poole
-clientURL: https://thelookout-poole.com/
+project-date: April 2020
+client: Wonkhe
+clientURL: https://wonkhe.com/
 category: Full Stack Developer
-projectDetails: My responsibility laid with developing full-stack web application include design ux. 
+projectDetails: My responsibility taking over existance project and integration new features.
 description1: Technical Info
 description2: Wordpress Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
 
