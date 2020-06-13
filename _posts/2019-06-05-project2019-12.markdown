@@ -1,5 +1,5 @@
 ---
-title: chelmsfordcityracecourse
+title: Chelmsford City Racecourse
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 12
