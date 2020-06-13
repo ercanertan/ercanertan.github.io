@@ -1,0 +1,18 @@
+---
+title: Tower Bridge
+subtitle: Role:Full Stack PHP Developer
+layout: default
+modal-id: 23
+date: 2020-01-01
+img: towerbridge.jpg
+thumbnail: towerbridge-thumbnail.jpg
+alt: image-alt
+project-date: April 2020
+client: towerbridge
+clientURL: https://www.towerbridge.org.uk/
+category: Full Stack Developer
+projectDetails: My responsibility taking over existance project and integration new features.
+description1: Technical Info
+description2: 
+
+---
