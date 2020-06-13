@@ -13,6 +13,6 @@ clientURL: https://www.towerbridge.org.uk/
 category: Full Stack Developer
 projectDetails: My responsibility taking over existance project and integration new features.
 description1: Technical Info
-description2: 
+description2: Django, Ptyhon, PostgreSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
 
 ---
