@@ -13,6 +13,6 @@ clientURL: https://www.themonument.org.uk/
 category: Maintenance
 projectDetails: My responsibility taking over existance project and integration new features. 
 description1: Technical Info
-description2: Django, Ptyhon, PostgreSQL,, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+description2: Django, Ptyhon, PostgreSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
 
 ---
