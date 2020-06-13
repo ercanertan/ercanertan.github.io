@@ -2,7 +2,7 @@
 title: n10bourbons
 subtitle: Role:Full Stack PHP Developer
 layout: default
-modal-id: 18
+modal-id: 17
 date: 2020-01-01
 img: n10bourbons.jpg
 thumbnail: n10bourbons-thumbnail.jpg
