@@ -1,0 +1,18 @@
+---
+title: The Lookout-Poole
+subtitle: Role:Full Stack PHP Developer
+layout: default
+modal-id: 17
+date: 2020-01-01
+img: thelookout-poole.jpg
+thumbnail: thelookout-poole-thumbnail.jpg
+alt: image-alt
+project-date: Jun 2019
+client: thelookout-poole
+clientURL: https://thelookout-poole.com/
+category: Full Stack Developer
+projectDetails: My responsibility laid with developing full-stack web application include design ux. 
+description1: Technical Info
+description2: Wordpress Framework, PHP, MYSQL, HTML, Javascript, CSS, Third Party Libraries(Bootstrap, Datatable JQuery, Form Validation), Git, SSH, Jenkins
+
+---
