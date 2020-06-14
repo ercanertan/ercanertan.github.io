@@ -3,7 +3,7 @@ title: Jamie Oliver
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 20
-date: 2020-01-01
+date: 2020-07-04
 img: jamieoliver.jpg
 thumbnail: jamieoliver-thumbnail.jpg
 alt: image-alt

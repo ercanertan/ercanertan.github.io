@@ -3,7 +3,7 @@ title: Singer Vielle Sales
 subtitle: Role:Front-End Developer
 layout: default
 modal-id: 7
-date: 2016-06-01
+date: 2020-07-08
 img: svs.jpg
 thumbnail: svs-thumbnail.jpg
 alt: image-alt
