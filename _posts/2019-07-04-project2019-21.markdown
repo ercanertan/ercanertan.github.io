@@ -1,6 +1,6 @@
 ---
 title: Tower Bridge
-subtitle: Role: Maintenance Full Stack Developer
+subtitle: Role:Maintenance Full Stack Developer
 layout: default
 modal-id: 21
 date: 2020-01-01
