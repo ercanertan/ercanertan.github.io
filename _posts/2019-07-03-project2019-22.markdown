@@ -1,6 +1,6 @@
 ---
 title: The Monument
-subtitle: Role:Maintenance
+subtitle: Role: Maintenance Full Stack Developer
 layout: default
 modal-id: 22
 date: 2020-01-01

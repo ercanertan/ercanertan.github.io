@@ -1,5 +1,5 @@
 ---
-title: SixteenByNine
+title: Sixteen By Nine
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 15

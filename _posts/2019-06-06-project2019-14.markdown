@@ -1,5 +1,5 @@
 ---
-title: OpenAgency
+title: Open Agency
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 14

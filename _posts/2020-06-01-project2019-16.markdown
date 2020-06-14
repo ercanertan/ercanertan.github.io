@@ -1,5 +1,5 @@
 ---
-title: TheGateHouse
+title: The GateHouse
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 16

@@ -1,5 +1,5 @@
 ---
-title: Jamieoliver
+title: Jamie Oliver
 subtitle: Role:Full Stack PHP Developer / Maintenance
 layout: default
 modal-id: 20

@@ -1,5 +1,5 @@
 ---
-title: Carealacarte
+title: Care a La Carte
 subtitle: Role:Full Stack PHP Developer
 layout: default
 modal-id: 11
